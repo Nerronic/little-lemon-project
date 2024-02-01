@@ -3,6 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer>
+      <img src="/bruchetta" alt=""> </img>
         <p>Doormat Navigation</p>
      <ul>  
      <li><a href="/">Home</a></li>
