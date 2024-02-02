@@ -1,3 +1,7 @@
+Working on the Little Lemon Capstone Project on Cousera for the MEta Front-End Developer Course.
+
+
+-----
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
